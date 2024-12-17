@@ -1,0 +1,8 @@
+/CBSN-master.zip
+# /dataset/*
+# /ckpts/*
+/.idea
+/results
+/*.tfrecords
+/*.npy
+/__pycache__
