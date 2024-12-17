@@ -1,4 +1,4 @@
-#　NYCU Image Processing
+# NYCU Image Processing
 
 * ## HW1:Image Enhancement Using Spatial Filters
 
